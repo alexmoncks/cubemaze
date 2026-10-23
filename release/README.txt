@@ -4,6 +4,10 @@ CUBE MAZE 3D - for MSX2 + V9968 + geo3d v2.0
 A port of "Cube Maze 3D" by harukaappscreate (JavaScript, Playload engine),
 made with the original author's permission. Roll a ball through a maze that
 covers the six faces of a cube; crossing an edge rolls the cube.
+The original game (idea, graphics, music) is harukaappscreate's:
+  https://gist.github.com/harukaappscreate/9beffd5b31d597df073e039e536bdafb
+MIT licence (LICENSE in https://github.com/alexmoncks/cubemaze), Copyright
+(c) 2026 harukaappscreate (the original game) and Alex Moncks (MSX version).
 
 Files
   CUBEMAZE_98.ROM   V9968 at ports 98h, geo3d at 9Dh/9Fh (emulators)
@@ -47,6 +51,10 @@ Port do "Cube Maze 3D" de harukaappscreate, feito com a permissao do autor
 original. Precisa de MSX2 ou superior e do geo3d v2.0. Com MSX-MUSIC
 (interno ou FM-PAC) a musica sai pelo FM; sem ele, pelo PSG. No openMSX
 (fork com o geo3d), use a linha de comando mostrada acima.
+O jogo original (ideia, graficos, musica) e de harukaappscreate:
+  https://gist.github.com/harukaappscreate/9beffd5b31d597df073e039e536bdafb
+Licenca MIT, com a concordancia dele: Copyright (c) 2026 harukaappscreate
+(o jogo original) e Alex Moncks (a versao MSX).
 
 Controles
   setas ou joystick 1           rolam a bola; no titulo escolhem o tamanho;

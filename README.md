@@ -1,7 +1,7 @@
 # Cube Maze 3D for MSX2 + V9968 + geo3d v2.0
 
-A port of **Cube Maze 3D** by **harukaappscreate** (JavaScript, Playload engine)
-to the MSX2 with the V9968 and its geo3d v2.0 3D coprocessor, made **with the
+A port of **[Cube Maze 3D](https://gist.github.com/harukaappscreate/9beffd5b31d597df073e039e536bdafb)**
+by **harukaappscreate** (JavaScript, Playload engine) to the MSX2 with the V9968 and its geo3d v2.0 3D coprocessor, made **with the
 original author's permission**. Roll a ball through a maze that covers the six
 faces of a cube; crossing an edge rolls the whole cube. The game design, the
 mazes' rules, the look and the music are harukaappscreate's; this directory
@@ -165,7 +165,16 @@ does not change with it (more ticks per picture), only the smoothness.
 
 ## Credits
 
-* **Cube Maze 3D**: game, graphics and music by harukaappscreate. Ported to
-  the MSX with the author's permission.
-* MSX version: Alex Moncks (code under the MIT licence, see the SPDX headers).
+* **Cube Maze 3D**: the original idea, game, graphics and music by
+  harukaappscreate, whose source is the Gist
+  <https://gist.github.com/harukaappscreate/9beffd5b31d597df073e039e536bdafb>.
+  Ported to the MSX with the author's permission.
+* MSX version: Alex Moncks.
+* V9968 and its command engine: HRA!.
+
+## Licence
+
+MIT (`LICENSE`), with harukaappscreate's agreement: Copyright (c) 2026
+harukaappscreate (the original game) and Alex Moncks (the MSX version).
+`orig/` is not in this repository: the original's source is the Gist above.
 * V9968 and its command engine: HRA!.
