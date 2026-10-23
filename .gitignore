@@ -1,0 +1,10 @@
+# generated
+msx/out/
+msx/music/build/
+msx/music/*.wav
+ref/solve_*.json
+__pycache__/
+# the original game's source: not redistributed here (ref/ needs it in orig/)
+orig/
+# needs the Playload engine; never run for this port
+ref/render_orig.mjs
